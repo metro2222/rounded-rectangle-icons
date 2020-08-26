@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g id="Layer_1_1_">
+	<g id="Layer_2" display="none">
+	</g>
+	<g id="shadows">
+		<g opacity="0.9">
+			<g>
+				<path fill="#B7B7B7" d="M466.5,381.5c0,48.6-39.4,88-88,88h-246c-48.603,0-88-39.4-88-88V164.833c0-48.601,39.397-88,88-88h246
+					c48.6,0,88,39.399,88,88V381.5z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#FFFFFF" d="M466.5,360.5c0,48.6-39.4,88-88,88h-246c-48.603,0-88-39.4-88-88V143.833c0-48.601,39.397-88,88-88h246
+					c48.6,0,88,39.399,88,88V360.5z"/>
+			</g>
+		</g>
+	</g>
+	<path fill="#FFFFFF" stroke="#E2E2E2" stroke-width="10" stroke-miterlimit="10" d="M465.5,362.667c0,48.6-39.399,88-88,88h-246
+		c-48.603,0-88-39.4-88-88V146c0-48.601,39.397-88,88-88h246c48.601,0,88,39.399,88,88V362.667z"/>
+</g>
+<g id="Layer_2_1_">
+</g>
+<rect x="62.169" y="115.5" fill="none" width="379" height="73"/>
+<text transform="matrix(1 0 0 1 62.1692 166.6191)" font-family="'MyriadPro-Regular'" font-size="72">1011011001</text>
+<rect x="62.832" y="201.5" fill="none" width="378.337" height="68"/>
+<text transform="matrix(1 0 0 1 62.8318 252.6191)" font-family="'MyriadPro-Regular'" font-size="72">1000111010</text>
+<rect x="62.831" y="285.5" fill="none" width="387" height="83"/>
+<text transform="matrix(1 0 0 1 62.8313 336.6191)" font-family="'MyriadPro-Regular'" font-size="72">1101110011</text>
+<rect x="62.831" y="365.5" fill="none" width="387" height="83"/>
+<text transform="matrix(1 0 0 1 62.8313 416.6191)" font-family="'MyriadPro-Regular'" font-size="72">0110011011</text>
+<g id="Layer_1_2_">
+	<g id="Layer_2_2_" display="none">
+	</g>
+	<g id="shadows_1_">
+		<g opacity="0.9">
+			<g>
+				<path fill="#B7B7B7" d="M469.542,381.208c0,48.94-39.676,88.616-88.617,88.616H133.2c-48.941,0-88.618-39.676-88.618-88.616
+					v-218.22c0-48.941,39.677-88.618,88.618-88.618h247.725c48.941,0,88.617,39.677,88.617,88.618V381.208z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#FFFFFF" d="M469.542,360.061c0,48.941-39.676,88.617-88.617,88.617H133.2c-48.941,0-88.618-39.676-88.618-88.617
+					v-218.22c0-48.941,39.677-88.618,88.618-88.618h247.725c48.941,0,88.617,39.677,88.617,88.618V360.061z"/>
+			</g>
+		</g>
+	</g>
+	<path fill="#FFFFFF" stroke="#7F7F7F" stroke-width="2" stroke-miterlimit="10" d="M468.536,362.276
+		c0,48.94-39.677,88.617-88.618,88.617H132.193c-48.941,0-88.618-39.677-88.618-88.617v-218.22
+		c0-48.941,39.677-88.618,88.618-88.618h247.725c48.941,0,88.618,39.677,88.618,88.618V362.276z"/>
+</g>
+<rect x="130.179" y="122.405" fill="none" width="256.788" height="249.741"/>
+<rect x="77.838" y="106.945" fill="none" width="356.662" height="73"/>
+<text transform="matrix(1 0 0 1 77.8381 158.0645)" font-family="'MyriadPro-Regular'" font-size="72">101101100</text>
+<rect x="78.501" y="192.945" fill="none" width="367" height="68"/>
+<text transform="matrix(1 0 0 1 78.5007 244.0645)" font-family="'MyriadPro-Regular'" font-size="72">100011101</text>
+<rect x="78.5" y="276.945" fill="none" width="356" height="83"/>
+<text transform="matrix(1 0 0 1 78.5002 328.0645)" font-family="'MyriadPro-Regular'" font-size="72">110111001</text>
+<rect x="78.5" y="356.945" fill="none" width="356" height="83"/>
+<text transform="matrix(1 0 0 1 78.5002 408.0645)" font-family="'MyriadPro-Regular'" font-size="72">011001101</text>
+</svg>
