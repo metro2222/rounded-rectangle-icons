@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{opacity:0.9;}
+	.st2{fill:#B7B7B7;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:url(#SVGID_1_);stroke:#E2E2E2;stroke-width:10;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1_1_">
+	<g id="Layer_2_1_" class="st0">
+	</g>
+	<g id="shadows">
+		<g class="st1">
+			<g>
+				<path class="st2" d="M466.5,381.5c0,48.6-39.4,88-88,88h-246c-48.6,0-88-39.4-88-88V164.8c0-48.6,39.4-88,88-88h246
+					c48.6,0,88,39.4,88,88V381.5z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st3" d="M466.5,360.5c0,48.6-39.4,88-88,88h-246c-48.6,0-88-39.4-88-88V143.8c0-48.6,39.4-88,88-88h246
+					c48.6,0,88,39.4,88,88V360.5z"/>
+			</g>
+		</g>
+	</g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="43.5" y1="257.5398" x2="465.5" y2="257.5398" gradientTransform="matrix(1 0 0 -1 0 511.8898)">
+		<stop  offset="0" style="stop-color:#F9D16C"/>
+		<stop  offset="1" style="stop-color:#33270F"/>
+	</linearGradient>
+	<path class="st4" d="M465.5,362.7c0,48.6-39.4,88-88,88h-246c-48.6,0-88-39.4-88-88V146c0-48.6,39.4-88,88-88h246
+		c48.6,0,88,39.4,88,88V362.7z"/>
+</g>
+<g>
+	<path class="st3" d="M212.6,361.7h-79.8V150.3h80.1c18.1,0,32.7,4.8,43.9,14.5c11.2,9.7,16.8,22.4,16.8,38.2c0,11-3.5,21-10.6,30
+		c-7.1,8.9-15.7,14.3-25.9,16.2v1.2c14.4,1.9,25.8,7.5,34.4,16.8c8.5,9.4,12.8,21.1,12.8,35.2c0,18.7-6.3,33.2-19,43.7
+		C252.7,356.4,235.1,361.7,212.6,361.7z M159.2,173.6v67.8h39.6c15.6,0,27.6-3,35.8-9.1c8.3-6.1,12.4-14.8,12.4-26.2
+		c0-10.4-3.5-18.5-10.4-24.1s-16.8-8.4-29.6-8.4H159.2z M159.2,338.4h49.5c15.9,0,28-3.2,36.2-9.5s12.3-15.6,12.3-27.8
+		c0-24.6-17-36.9-51-36.9h-47L159.2,338.4L159.2,338.4z"/>
+	<path class="st3" d="M310.2,361.7V209.3h24v24.9h0.6c2.5-8.5,7.1-15.2,13.7-20.1c6.6-4.9,14.3-7.4,23.2-7.4c2.1,0,5.5,0.3,10.3,1
+		v24.8c-2.7-1-7.3-1.5-13.6-1.5c-9.9,0-17.8,3.3-23.7,9.8c-6,6.5-8.9,15.2-8.9,25.9v94.9h-25.6V361.7z"/>
+</g>
+</svg>
